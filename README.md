@@ -1,6 +1,6 @@
 <h1 align="start">Geovani Orsoli <h1>
 
-<p> Sou um desenvolvedor front-end, bastante criativo em suas ideias, trabalho com html css javascrip e boostrap para criação de paginas, estou começando a estudar linguagens de backend para aperfeiçõar minhas aplicações </p>
+<p> Sou um desenvolvedor front-end, bastante criativo em suas ideias, trabalho com html css javascript e boostrap para criação de paginas, estou começando a estudar linguagens de backend para aperfeiçõar minhas aplicações </p>
 
 	
 <div align="center">
