@@ -1,7 +1,5 @@
 <h1 align="start"> Olá sou Geovani Orsoli <h1>
 
- Dev web
-
   <div align="center">
     <a href="https://github.com/geovaniorsoli">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovaniorsoli&layout=compact&langs_count=7&theme=transparent"/>
