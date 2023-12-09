@@ -7,7 +7,7 @@
   	
   
 <div align="center" style="display: inline_block"><br>
-   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,nodejs" />
+   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,python,nodejs,nextjs" />
 </div>
 
 
